@@ -1,0 +1,19 @@
+<meta charset="UTF-8">
+
+:: StoryTitle
+
+hello world
+
+:: StoryData
+{
+    "ifid": "7239E430-F0CF-4D79-B6ED-207CDBE60772",
+    "format": "sugarcube",
+    "format-version": "2.37.3",
+    "start": "Start"
+}
+
+:: Start
+
+hello world
+123
+123
