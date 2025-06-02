@@ -234,7 +234,7 @@ twine(twee 3) language:build game //构建游戏
 
 #### 版权声明
 
-本文《在 Vscode 上用 Twee3 插件》由 GrassJiang 创作，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。  
+本文《在 Vscode 上用 Twee3 插件》由 [GrassJiang](https://space.bilibili.com/229408320?) 创作，由 [JiangzhiX](https://github.com/Jiangzhix) 负责上传，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。  
 您可自由**共享**和**改编**，但需：  
 ① 标注作者姓名 ② 非商业使用 ③ 相同方式共享  
 [![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
